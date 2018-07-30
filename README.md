@@ -1,6 +1,6 @@
 # \<eth-connect\>
 
-A web component that fetches the ABI of an Ethereum contract and creates a contract instance.
+A web component that exposes ethjs and connects to the provided http provider
 
 ## Install the Polymer-CLI
 
